@@ -15,3 +15,7 @@ Installation
 ------------
 Make sure to install the necessary libraries and modules before running the project.
 
+==============================
+The Gradio Prototype
+![image](https://github.com/user-attachments/assets/36092ddf-e25d-499f-88b4-f1b2095aea59)
+
