@@ -11,8 +11,10 @@ Directory Structure
 - `ChurnPrediction` Python code of data training, model development, and experimentation.
 - `app.py` Python script for the Gradio user interface or testing.
 
-Installation
+Installation (Terminal)
 ------------
+pip install pandas numpy matplotlib scikit-learn keras tensorflow joblib gradio
+
 Make sure to install the necessary libraries and modules before running the project.
 
 ==============================
