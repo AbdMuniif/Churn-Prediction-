@@ -8,7 +8,7 @@ Directory Structure
 - `Dataset` Dataset used in the project.
 - `logistic_regression_model.pkl` The best-performing model selected for integration into the prototype.
 - `training_columns.pkl` The list of feature columns used for training the model.
-- `ChurnPrediction` Python code of data training, model development, and experimentation.
+- `ChurnPrediction` Python script of data training, model development, and experimentation.
 - `app.py` Python script for the Gradio user interface or testing.
 
 Installation (Terminal)
